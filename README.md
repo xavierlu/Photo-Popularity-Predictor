@@ -11,3 +11,16 @@ I used a trained ML model written by [Intrinsic-Image-Popularity](https://github
 1. Clone this repo and `cd` there
 2. Put your photos under `/pic`. If you have a different folder, make sure to put the directory when running `python test.py --folder_path=[PATH]`
 3. `python test.py --help`
+
+### Citation
+
+```
+@inproceedings{ding2019intrinsic,
+  title={Intrinsic Image Popularity Assessment},
+  author={Ding, Keyan and Ma, Kede and Wang, Shiqi},
+  booktitle={ACM International Conference on Multimedia},
+  pages={1979--1987},
+  year={2019},
+  publisher={ACM}
+}
+```
