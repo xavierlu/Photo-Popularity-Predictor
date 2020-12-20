@@ -1,4 +1,4 @@
-# Photo-Popularity-Predictor
+# Photo Popularity Predictor
 
 > Take a folder of photos and assign a score to each of them
 
